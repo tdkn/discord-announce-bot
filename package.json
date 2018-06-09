@@ -1,0 +1,27 @@
+{
+  "name": "discord-announce-bot",
+  "version": "1.0.0",
+  "description": "Discord announce bot",
+  "main": "index.js",
+  "dependencies": {
+    "eris": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdkn/discord-announce-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "tdkn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdkn/discord-announce-bot/issues"
+  },
+  "homepage": "https://github.com/tdkn/discord-announce-bot#readme"
+}
